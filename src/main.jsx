@@ -1,6 +1,6 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import "./../src/style.css";
+import "./../src/index.css";
 import App from "./App.jsx";
 import { BrowserRouter } from "react-router-dom";
 import Productcontext from "./ProductContext/Productcontext.jsx";
