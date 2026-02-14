@@ -75,9 +75,9 @@ html {
   cursor: pointer;
   transition: all ease 0.2s;
 }
-.Homepages > button:active {
+/* .Homepages > button:active {
   scale: 0.1;
-}
+} */
 .singleDetails {
   max-width: 1100px;
   margin: 40px auto;
