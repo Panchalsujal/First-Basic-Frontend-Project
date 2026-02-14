@@ -6,7 +6,7 @@ import { BrowserRouter } from "react-router-dom";
 import Productcontext from "./ProductContext/Productcontext.jsx";
 
 createRoot(document.getElementById("root")).render(
-  <BrowserRouter basename="/First-Basic-Frontend-Project">
+  <BrowserRouter>
     <Productcontext>
       <App />
     </Productcontext>
